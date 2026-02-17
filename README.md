@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Akhil+Chanda+👋;Computer+Science+Undergraduate+💻;Developer+%7C+Problem+Solver;Hackathon+Participant+🏆;Guinness+World+Record+Certified" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Hyndhava+Mahesh+Nirjogi+👋;BTech+CSE(AI+&+ML)+Undergraduate+💻;Developer+%7C+Problem+Solver;Hackathon+Participant+🏆;Guinness+World+Record+Certified" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
@@ -10,11 +10,11 @@
 <div align="center">
   
 ### 🚀 **Guinness World Record Hackathon Participant | National-Level Hackathons**
-### 💡 Developer | B.Tech CSE @ Woxsen University | Exploring AI & ML
+### 💡 Developer | B.Tech CSE(AI & ML) @ Woxsen University | Exploring AI & ML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-chanda-/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrakhil8121@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=CHANDA-AKHIL&color=6C63FF&style=for-the-badge)](https://github.com/CHANDA-AKHIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyndhava-mahesh-30894a27a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyndhavamahesh345@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=hyndhavamahesh345&color=6C63FF&style=for-the-badge)](https://github.com/hyndhavamahesh345)
 
 </div>
 
@@ -24,14 +24,14 @@
 
 ### 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science Engineering** student at **Woxsen University**, Hyderabad  
-📊 **CGPA: 9.1** (ongoing)  
+🎓 **B.Tech Computer Science Engineering (AI & ML)** student at **Woxsen University**, Hyderabad  
+📊 **CGPA: 8.29** (ongoing)  
 
 🏆 **Guinness World Record certified hackathon participant**  
 🔥 Selected for high-competition national hackathons  
 
-🌱 Currently exploring **Artificial Intelligence & Machine Learning**  
-💬 Ask me about **Web Development, Backend Frameworks, APIs, and Cloud Deployment**
+🌱 Currently exploring **Artificial Intelligence, Machine Learning, Agentic AI & Multi-Agent Systems**  
+💬 Ask me about **Web Development, Backend Frameworks, APIs, AI Systems and Cloud Deployment**
 
 <br clear="both"/>
 
@@ -105,13 +105,11 @@ Selected from a large applicant pool for a high-intensity national hackathon. Co
 ![BERT](https://img.shields.io/badge/BERT-000000?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ### 🛠️ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -125,8 +123,8 @@ Selected from a large applicant pool for a high-intensity national hackathon. Co
 
 **Always open to learning, collaboration, and new opportunities.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-chanda-/)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrakhil8121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyndhava-mahesh-30894a27a/)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyndhavamahesh345@gmail.com)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
