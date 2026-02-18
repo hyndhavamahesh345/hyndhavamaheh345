@@ -33,6 +33,11 @@
 🌱 Currently exploring **Artificial Intelligence, Machine Learning, Agentic AI & Multi-Agent Systems**  
 💬 Ask me about **Web Development, Backend Frameworks, APIs, AI Systems and Cloud Deployment**
 
+<br clear="both"/>
+
+---
+
+<div align="center">
 
 ## 🏆 **Hackathons & Achievements**
 
