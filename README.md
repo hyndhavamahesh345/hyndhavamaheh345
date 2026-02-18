@@ -38,6 +38,14 @@
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyndhavamahesh345&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyndhavamahesh345&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyndhavamahesh345&theme=radical" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
 
 ## 🏆 **Hackathons & Achievements**
 
@@ -129,3 +137,5 @@ Selected from a large applicant pool for a high-intensity national hackathon. Co
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
 </div>
+
+<!-- Profile Refresh: Trigger GitHub Profile README -->
