@@ -28,7 +28,7 @@
 📊 **CGPA: 8.29** (ongoing)  
 
 🏆 **Guinness World Record certified hackathon participant**  
-🔥 Selected for high-competition national hackathons  
+🔥 Selected for National Level Hackathons  
 
 🌱 Currently exploring **Artificial Intelligence, Machine Learning, Agentic AI & Multi-Agent Systems**  
 💬 Ask me about **Web Development, Backend Frameworks, APIs, AI Systems and Cloud Deployment**
