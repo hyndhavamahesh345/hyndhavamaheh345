@@ -45,8 +45,10 @@
 
 </div>
 
+---
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🏆 Guinness World Record – Agentic AI Hackathon
@@ -65,10 +67,31 @@ Selected among **2,500+ developers and 650+ teams**. Built and delivered a worki
 Selected from a large applicant pool for a high-intensity national hackathon. Collaborated, coded, and shipped a functional prototype within strict deadlines.
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🔐 Deutsche Börse Cybersecurity Hackathon
+**ELAN & nVISION 2026 – IIT Hyderabad**
+
+Solved CTF challenges, performed vulnerability assessment, and analyzed security risks while working in a high-pressure competitive environment.
+
+</td>
+
+<td width="50%">
+
+### 🧠 Research Paper Presenter – IEEE RCSM 2025
+**IEEE International Conference**
+
+Presented research work at an international conference. Paper scheduled for publication in **Scopus-indexed IEEE proceedings**, demonstrating strong research and technical contribution.
+
+</td>
+
 </tr>
 </table>
-
----
 
 <div align="center">
 
